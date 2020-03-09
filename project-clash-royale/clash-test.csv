@@ -1,0 +1,98 @@
+Name,Elixir-cost,Type,Rarity,Objectives,Units,Range,Speed,Hit-speed,damage-area,Life-points,Damage,Other-attack,Usage,Win
+Archers,3,Troop,Common,ground/air,2,5.0,medium,1.2,0.0,252,89,74,0.08,0.49
+Arrows,3,Spell,Common,ground/air,1,4.0,very fast,1.3,4.0,0,101,35,0.18,0.5
+Baby Dragon,4,Troop,Epic,ground/air,1,3.5,fast,1.5,1.2,1024,133,88,0.24,0.51
+Balloon,5,Troop,Epic,Structures,1,0.1,medium,3.0,266.0,1396,798,266,0.13,0.49
+Bandit,3,Troop,Legendary,ground,1,0.75,fast,1.0,0.0,4,160,320,0.12,0.52
+Barbarian Barrel,2,Spell,Epic,ground,1,5.0,medium,1.0,5.0,555,159,113,0.13,0.53
+Barbarian Hut,7,Structure,Rare,ground,1,0.7,slow,1.0,0.0,1804,159,137,0.02,0.52
+Barbarians,5,Troop,Common,ground,5,0.7,medium,1.4,0.0,505,144,102,0.05,0.5
+Bats,2,Troop,Common,ground/air,5,0.3,Very fast,1.1,0.0,67,67,60,0.21,0.51
+Battle Healer,4,Troop,Rare,ground,1,0.7,medium,1.5,0.0,1584,123,76,0.02,0.52
+Battle Ram,4,Troop,Rare,Structures,2,0.5,medium,1.4,0.0,756,220,440,0.06,0.51
+Bomb Tower,4,Structure,Rare,ground,1,6.0,slow,1.6,184.0,1126,115,369,0.05,0.53
+Bomber,3,Troop,Common,ground,1,5.0,medium,1.9,271.0,398,142,142,0.06,0.48
+Bowler,5,Troop,Epic,ground,1,5.0,slow,2.5,239.0,1596,95,95,0.03,0.53
+Cannon,3,Structure,Common,ground,1,5.5,slow,1.0,0.0,742,167,167,0.03,0.49
+Cannon Cart,5,Troop,Epic,ground,1,5.5,fast,1.0,0.0,742,167,742,0.01,0.52
+Dark Prince,4,Troop,Epic,ground,1,0.75,medium,1.3,206.0,1030,158,412,0.08,0.53
+Dart Goblin,3,Troop,Rare,ground/air,1,6.5,very fast,0.7,0.0,216,100,142,0.05,0.5
+Earthquake,3,Spell,Rare,ground,1,3.5,fast,1.0,0.0,0,244,61,0.03,0.52
+Electro Dragon,5,Troop,Epic,ground/air,1,3.5,medium,2.1,0.0,790,159,75,0.03,0.52
+Electro Wizard,4,Troop,Legendary,ground/air,1,5.1,fast,1.8,159.0,590,96,159,0.2,0.51
+Elite Barbarians,6,Troop,Common,ground,2,0.75,very fast,1.7,0.0,970,301,177,0.04,0.44
+Elixir Collector,6,Structure,Rare,none,1,0.1,medium,0.0,0.0,888,0,0,0.02,0.48
+Elixir Golem,4,Troop,Rare,Structures,1,0.5,medium,1.3,0.0,1196,211,157,0.03,0.49
+Executioner,5,Troop,Epic,ground/air,1,4.5,medium,2.4,0.0,1010,140,58,0.08,0.49
+Fire Spirits,2,Troop,Common,ground/air,2,2.0,very fast,1.0,84.0,91,178,178,0.06,0.46
+Fireball,4,Spell,Rare,ground/air,1,1.0,very fast,1.0,572.0,0,572,201,0.27,0.49
+Firecracker,3,Troop,Common,ground/air,1,6.0,slow,3.0,53.0,252,53,17,0.06,0.51
+Fisherman,3,Troop,Legendary,ground,1,1.2,medium,1.5,0.0,800,160,106,0.02,0.45
+Flying Machine,4,Troop,Rare,ground/air,1,6.0,fast,1.1,0.0,510,142,129,0.04,0.53
+Freeze,4,Spell,Epic,ground/air,1,3.0,very fast,1.0,95.0,0,95,34,0.06,0.48
+Furnace,4,Structure,Rare,ground/air,1,2.0,very fast,1.0,82.0,1003,178,178,0.09,0.49
+Giant,5,Troop,Rare,Structures,1,0.5,very slow,1.5,0.0,3275,211,211,0.09,0.49
+Giant Skeleton,6,Troop,Epic,ground,1,0.8,medium,1.5,957.0,2793,172,957,0.06,0.48
+Giant Snowball,2,Spell,Common,ground/air,1,2.5,medium,1.0,159.0,0,159,56,0.07,0.52
+Goblin Barrel,3,Spell,Epic,ground,3,0.75,very fast,1.1,0.0,167,99,90,0.13,0.49
+Goblin Cage,4,Structure,Rare,ground,1,0.8,fast,1.1,0.0,800,264,240,0.01,0.51
+Goblin Gang,3,Troop,Common,ground/air,5,0.5,very fast,1.4,0.0,140,83,65,0.16,0.5
+Goblin Giant,6,Troop,Epic,Structures,1,0.7,medium,1.7,0.0,2616,146,74,0.02,0.52
+Goblin Hut,5,Structure,Rare,ground/air,1,5.0,medium,1.7,0.0,1293,67,39,0.03,0.47
+Goblins,2,Troop,Common,ground,3,0.5,very fast,1.1,0.0,167,99,90,0.04,0.51
+Golem,8,Troop,Epic,Structures,1,0.5,slow,2.5,259.0,4256,259,103,0.08,0.51
+Graveyard,5,Spell,Legendary,ground,12,0.3,fast,1.0,0.0,67,67,67,0.05,0.51
+Guards,3,Troop,Epic,ground,6,1.2,fast,1.1,0.0,290,90,81,0.05,0.51
+Heal,1,Spell,Rare,none,1,4.0,fast,0.0,0.0,0,0,65,0.0,0.4
+Hog Rider,4,Troop,Rare,Structures,1,0.8,very fast,1.6,0.0,1408,264,165,0.19,0.49
+Hunter,4,Troop,Epic,ground/air,1,4.0,medium,2.2,0.0,696,385,170,0.04,0.5
+Ice Golem,2,Troop,Rare,Structures,1,0.75,slow,2.5,70.0,994,70,28,0.09,0.51
+Ice Spirit,1,Troop,Common,ground/air,1,2.5,very fast,1.0,91.0,190,91,91,0.11,0.5
+Ice Wizard,3,Troop,Legendary,ground/air,1,5.5,medium,1.7,75.0,590,44,44,0.1,0.51
+Inferno Dragon,4,Troop,Legendary,ground/air,1,3.5,medium,0.4,0.0,1070,190,75,0.11,0.49
+Inferno Tower,5,Structure,Rare,ground/air,1,6.0,medium,0.4,0.0,1452,370,87,0.09,0.48
+Knight,3,Troop,Common,ground,1,1.2,medium,1.2,0.0,1452,167,139,0.13,0.5
+Lava Hound,7,Troop,Legendary,Structures,1,1.6,medium,1.7,0.0,3150,45,75,0.05,0.5
+Lightning,6,Spell,Epic,ground/air,1,3.5,medium,0.7,0.0,0,877,307,0.1,0.53
+Lumberjack,4,Troop,Legendary,ground,1,0.7,very fast,0.8,0.0,1060,200,250,0.12,0.49
+Magic Archer,4,Troop,Legendary,ground/air,1,7.0,medium,1.1,111.0,490,111,100,0.13,0.5
+Mega Knight,7,Troop,Legendary,ground,1,0.5,medium,1.7,222.0,3300,130,444,0.17,0.51
+Mega Minion,3,Troop,Rare,ground/air,1,1.5,medium,1.6,0.0,695,258,161,0.13,0.52
+Miner,3,Troop,Legendary,ground,1,0.7,fast,1.2,0.0,1000,160,56,0.19,0.5
+Mini P.E.K.K.A,4,Troop,Rare,ground,1,0.7,fast,1.8,0.0,1129,598,332,0.2,0.51
+Minion Horde,5,Troop,Common,ground/air,6,2.0,fast,1.0,0.0,190,84,84,0.1,0.45
+Minions,3,Troop,Common,ground/air,3,1.5,fast,1.0,0.0,190,84,84,0.12,0.49
+Mirror,2,Spell,Epic,none,1,1.0,fast,0.0,0.0,0,0,0,0.05,0.44
+Mortar,4,Structure,Common,ground,1,7.5,medium,5.0,220.0,1219,220,44,0.02,0.49
+Musketeer,4,Troop,Rare,ground/air,1,6.0,medium,1.1,0.0,598,181,164,0.16,0.51
+Night Witch,4,Troop,Legendary,ground,1,1.5,medium,1.5,0.0,750,260,67,0.1,0.53
+P.E.K.K.A,7,Troop,Epic,ground,1,1.2,slow,1.8,0.0,3125,678,376,0.13,0.51
+Poison,4,Spell,Epic,none,1,3.5,medium,0.0,0.0,0,75,27,0.15,0.53
+Prince,5,Troop,Epic,ground,1,1.8,medium,1.4,0.0,1615,325,232,0.09,0.48
+Princess,3,Troop,Legendary,ground/air,1,9.0,medium,3.0,140.0,216,216,46,0.12,0.48
+Rage,2,Spell,Epic,none,1,5.0,medium,0.0,0.0,0,0,0,0.08,0.46
+Ram Rider,5,Troop,Legendary,ground/air,1,5.5,medium,1.1,0.0,1461,86,220,0.1,0.49
+Rascals,5,Troop,Common,ground/air,3,0.8,medium,1.1,0.0,715,307,52,0.03,0.52
+Rocket,6,Spell,Rare,ground/air,1,2.0,medium,0.0,700.0,0,700,246,0.11,0.48
+Royal Delivery,3,Spell,Common,ground/air,1,1.7,medium,1.3,318.0,440,101,77,0.0,0.49
+Royal Ghost,3,Troop,Legendary,ground,1,1.5,medium,1.8,216.0,1000,216,120,0.05,0.52
+Royal Giant,6,Troop,Common,Structures,1,5.0,slow,1.7,0.0,2544,254,149,0.06,0.49
+Royal Hogs,5,Troop,Rare,Structures,5,0.7,very fast,1.2,0.0,695,59,49,0.03,0.51
+Royal Recruits,7,Troop,Common,ground,4,1.7,medium,1.3,0.0,440,101,199,0.01,0.49
+Skeleton Army,3,Troop,Epic,ground,15,0.5,fast,1.0,0.0,67,67,67,0.2,0.49
+Skeleton Barrel,3,Troop,Common,ground,7,0.35,fast,1.0,0.0,363,67,67,0.02,0.51
+Skeletons,1,Troop,Common,ground,3,0.5,fast,1.0,0.0,67,67,67,0.12,0.52
+Sparky,6,Troop,Legendary,ground,1,5.0,slow,4.0,1100.0,1200,1100,275,0.07,0.51
+Spear Goblins,2,Troop,Common,ground/air,3,5.0,very fast,1.7,0.0,110,67,39,0.05,0.48
+Tesla,4,Structure,Common,ground/air,1,5.5,fast,1.1,0.0,954,190,172,0.09,0.5
+The Log,2,Spell,Legendary,ground,1,11.1,fast,1.0,240.0,0,240,84,0.28,0.5
+Three Musketeers,9,Troop,Rare,ground/air,3,6.0,medium,1.1,0.0,598,181,164,0.01,0.49
+Tombstone,3,Structure,Rare,ground,1,0.5,fast,1.0,0.0,422,67,67,0.04,0.51
+Tornado,3,Spell,Epic,ground/air,1,5.5,medium,1.4,53.0,0,53,0,0.14,0.52
+Valkyrie,4,Troop,Rare,ground,1,1.2,medium,1.5,221.0,1654,221,147,0.26,0.49
+Wall Breakers,2,Troop,Epic,Structures,2,0.5,very fast,1.2,325.0,275,325,325,0.05,0.5
+Witch,5,Troop,Epic,ground/air,1,5.0,medium,1.0,111.0,696,111,67,0.11,0.47
+Wizard,5,Troop,Rare,ground/air,1,5.5,medium,1.4,234.0,598,234,167,0.23,0.47
+X-Bow,6,Structure,Epic,ground,1,11.5,medium,0.25,0.0,1383,26,104,0.04,0.48
+Zap,2,Spell,Common,ground/air,1,2.5,very fast,1.0,159.0,0,159,56,0.35,0.51
+Zappies,4,Troop,Rare,ground/air,3,4.5,medium,2.0,84.0,440,84,42,0.01,0.51
